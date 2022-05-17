@@ -1,0 +1,44 @@
+body {
+  background-color: peachpuff;
+}
+.container {
+  font-weight: 200px;
+  text-align: justify;
+  width: 700px;
+  background-color: #fff;
+  margin: auto; 
+  margin-top:50px;
+  margin-bottom:50px;
+  line-height:20px;
+  padding:20px;
+  word-spacing:2px;
+}
+.address {
+  margin-left: 25rem;
+  line-height:10px;
+}
+.recipient{
+  line-height:10px;
+}
+.salute{
+  font-style:italic;
+  margin-top:50px;
+}
+.heading{
+  text-align:center;
+  text-transform: uppercase;
+  font-weight:bold;
+}
+main{
+  margin-bottom: 50px;
+}
+.conclusion{
+  margin-left: 25rem;
+  text-align:center;
+}
+.line{
+  border:solid;
+  border-color:black;
+  border-width:0.1px;
+  margin-top:45px;
+}
