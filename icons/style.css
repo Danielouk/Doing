@@ -1,0 +1,45 @@
+.icon-logo1{
+    background-color: #ffff00;
+    width: 240px;
+    height: 210px;
+    padding: 10px;
+}
+ul{
+    list-style: none;
+}
+ul.col{
+    float: center;
+}
+.rowling{
+    background-color: lightgreen;
+    padding: 35px;
+}
+.row-ul{ 
+    justify-content: space-evenly;
+    display: flex;
+}
+.fa-facebook{
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.fa-github{
+    color: black;
+}
+.fa-linkedin{
+    color: blue;
+}
+.fa-youtube{
+    color: red;
+}
+.fa-twitter{
+    color: lightblue;
+}
+.fa-pinterest{
+    color: red
+}
+.fa-instagram{
+    color: indianred;
+}
+.fa-whatsapp{
+    color: green;
+}
